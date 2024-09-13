@@ -26,9 +26,3 @@ To run this project, you need to have the following installed:
 - Gradio Library
 - Torch (PyTorch)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/image-captioning-blip.git
